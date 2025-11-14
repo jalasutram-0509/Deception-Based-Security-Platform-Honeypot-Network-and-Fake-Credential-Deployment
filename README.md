@@ -1,4 +1,4 @@
-HoneyRJ
+Honeypot
 =======
 
 [![Build Status](https://travis-ci.org/twschiller/HoneyRJ.svg)](https://travis-ci.org/twschiller/HoneyRJ)
@@ -9,7 +9,7 @@ protocols with the intent of capturing the source of traffic coming to
 the honeypot. A honeypot is located on an IP address that is used
 solely for the purpose of the honeypot and not for any legitimate
 services; any connections to the software are presumed to be malicious
-and are logged for later review. HoneyRJ was designed to be extremely
+and are logged for later review. Honeypot was designed to be extremely
 simple and easily extendable.
 
 ## Project History
